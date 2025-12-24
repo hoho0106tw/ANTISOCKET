@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Server">
+</Property><Property Name="方案檔" Value="C:\Users\femh90472\Desktop\socket\Server\Server.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\femh90472\Desktop\socket\Server\Server.suo">
+</Property><Property Name="Date" Value="2016年7月3日">
+</Property><Property Name="Time" Value="下午 14:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Server.sln" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Server\Backup\Server.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Server.suo" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Server\Backup\Server.suo">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="專案檔已成功備份為 C:\Users\femh90472\Desktop\socket\Server\Backup\Server\Server.csproj">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Server\Backup\Server\Server.csproj.user">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Program.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Server\Backup\Server\Program.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Server\Backup\Server\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Server" Source="Server\Server.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Server.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Server.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Server" Source="Server\Server.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>

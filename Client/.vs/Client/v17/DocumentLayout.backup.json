@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|c:\\users\\administrator\\desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\client\\client\\notifywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|solutionrelative:client\\notifywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\client\\notifywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|solutionrelative:client\\notifywindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\client\\notifycall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|solutionrelative:client\\notifycall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\client\\mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|solutionrelative:client\\mousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\client\\globalkeyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D5FBD22-666B-4E07-8092-2592217D5431}|Client\\Client.csproj|solutionrelative:client\\globalkeyboardhook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:30:36.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotifyWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\NotifyWindow.cs",
+              "RelativeDocumentMoniker": "Client\\NotifyWindow.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\NotifyWindow.cs",
+              "RelativeToolTip": "Client\\NotifyWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALICAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:29:06.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotifyWindow.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\NotifyWindow.cs",
+              "RelativeDocumentMoniker": "Client\\NotifyWindow.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\NotifyWindow.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "Client\\NotifyWindow.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:29:03.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NotifyCall.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\NotifyCall.cs",
+              "RelativeDocumentMoniker": "Client\\NotifyCall.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\NotifyCall.cs",
+              "RelativeToolTip": "Client\\NotifyCall.cs",
+              "ViewState": "AgIAAOUAAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:28:55.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseHook.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\MouseHook.cs",
+              "RelativeDocumentMoniker": "Client\\MouseHook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\MouseHook.cs",
+              "RelativeToolTip": "Client\\MouseHook.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:28:52.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "globalKeyboardHook.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\globalKeyboardHook.cs",
+              "RelativeDocumentMoniker": "Client\\globalKeyboardHook.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\\u65B0\u589E\u8CC7\u6599\u593E (130)\\Client\\Client\\globalKeyboardHook.cs",
+              "RelativeToolTip": "Client\\globalKeyboardHook.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T08:28:46.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

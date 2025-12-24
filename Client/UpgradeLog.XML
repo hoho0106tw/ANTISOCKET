@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Client">
+</Property><Property Name="方案檔" Value="C:\Users\femh90472\Desktop\socket\Client\Client.sln">
+</Property><Property Name="使用者選項檔" Value="C:\Users\femh90472\Desktop\socket\Client\Client.suo">
+</Property><Property Name="Date" Value="2016年7月3日">
+</Property><Property Name="Time" Value="下午 14:58">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Client.sln" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Client.suo" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client.suo">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="專案檔已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\Client.csproj">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj.user" Description="專案使用者檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\Client.csproj.user">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\NotifyCall.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\NotifyCall.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\NotifyWindow.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\NotifyWindow.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\NotifyWindow.Designer.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\NotifyWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Program.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\Program.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Properties\AssemblyInfo.cs" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\NotifyWindow.resx" Description="檔案已成功備份為 C:\Users\femh90472\Desktop\socket\Client\Backup\Client\NotifyWindow.resx">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="專案轉換成功">
+</Event><Event ErrorLevel="3" Project="Client" Source="Client\Client.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Client.sln" Description="方案轉換成功">
+</Event><Event ErrorLevel="3" Project="" Source="Client.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Client" Source="Client\Client.csproj" Description="掃描完成: 專案檔不需要升級。">
+</Event></UpgradeLog>
